@@ -13,9 +13,9 @@ This is a simple iOS project developed in Xcode for self-learning purposes. The 
 ## Screenshots
 | Login Screen | Validation Error | Navigation Screen |
 |-------------|----------------|------------------|
-| ![Login Screen](<img width="321" alt="Screenshot 2025-01-06 at 6 44 03 PM" src="https://github.com/user-attachments/assets/ae26d2f4-82e3-46c1-9d82-f55dc60e66d0" />
-) | ![Validation Error](<img width="332" alt="Screenshot 2025-01-06 at 6 44 46 PM" src="https://github.com/user-attachments/assets/5ccd62a0-7751-48fa-b7ea-ad4c3e3d2f6d" />
-) | ![Navigation Screen](<img width="339" alt="Screenshot 2025-01-06 at 6 45 15 PM" src="https://github.com/user-attachments/assets/9518af4a-9b11-4610-97f5-fbbe8818f958" />
+|(<img width="321" alt="Screenshot 2025-01-06 at 6 44 03 PM" src="https://github.com/user-attachments/assets/ae26d2f4-82e3-46c1-9d82-f55dc60e66d0" />
+) |(<img width="332" alt="Screenshot 2025-01-06 at 6 44 46 PM" src="https://github.com/user-attachments/assets/5ccd62a0-7751-48fa-b7ea-ad4c3e3d2f6d" />
+) | (<img width="339" alt="Screenshot 2025-01-06 at 6 45 15 PM" src="https://github.com/user-attachments/assets/9518af4a-9b11-4610-97f5-fbbe8818f958" />
 ) |
 
 ## Technologies Used
