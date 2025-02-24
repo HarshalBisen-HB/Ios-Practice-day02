@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "D32FC258-2C41-4B6F-BA67-5DB7F0263119"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AAE0C6EB-6364-4BC3-9E19-19CE4DFC3A94"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "IOSapp1/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "AAE0C6EB-6364-4BC3-9E19-19CE4DFC3A94 - 19d73c1c4aaddd7a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "IOSapp1.ViewController.textViewPhone.getter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "IOSapp1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sunbeam/Desktop/download/ios/day2/IOSapp1/IOSapp1/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "85">
+               </Location>
+               <Location
+                  uuid = "AAE0C6EB-6364-4BC3-9E19-19CE4DFC3A94 - cca1b6a08bee2176"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "IOSapp1.ViewController.textViewPhone.setter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "IOSapp1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sunbeam/Desktop/download/ios/day2/IOSapp1/IOSapp1/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "AAE0C6EB-6364-4BC3-9E19-19CE4DFC3A94 - 238e20e336fa1a79"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "IOSapp1.ViewController.textViewPhone.modify : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "IOSapp1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sunbeam/Desktop/download/ios/day2/IOSapp1/IOSapp1/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "AAE0C6EB-6364-4BC3-9E19-19CE4DFC3A94 - 9012ebad6f4d369b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "IOSapp1.ViewController.textViewPhone.modify : Swift.Optional&lt;__C.UITextField&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "IOSapp1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sunbeam/Desktop/download/ios/day2/IOSapp1/IOSapp1/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "26">
+               </Location>
+               <Location
+                  uuid = "AAE0C6EB-6364-4BC3-9E19-19CE4DFC3A94 - b982b0eaa39e00a9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "IOSapp1.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; IOSapp1.ViewController"
+                  moduleName = "IOSapp1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sunbeam/Desktop/download/ios/day2/IOSapp1/IOSapp1/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "296">
+               </Location>
+               <Location
+                  uuid = "AAE0C6EB-6364-4BC3-9E19-19CE4DFC3A94 - c3a2603ecf640f33"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "IOSapp1.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;IOSapp1.ViewController&gt;"
+                  moduleName = "IOSapp1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sunbeam/Desktop/download/ios/day2/IOSapp1/IOSapp1/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "253">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "17F67F9A-EE50-4435-A18B-F0599D47BC0F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "IOSapp1/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "17F67F9A-EE50-4435-A18B-F0599D47BC0F - 702cd07d0b433364"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "IOSapp1.ViewController.textReg.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "IOSapp1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sunbeam/Desktop/download/ios/day2/IOSapp1/IOSapp1/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "85">
+               </Location>
+               <Location
+                  uuid = "17F67F9A-EE50-4435-A18B-F0599D47BC0F - 484501333270f788"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "IOSapp1.ViewController.textReg.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "IOSapp1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sunbeam/Desktop/download/ios/day2/IOSapp1/IOSapp1/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "17F67F9A-EE50-4435-A18B-F0599D47BC0F - e5d2bf153dbc1203"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "IOSapp1.ViewController.textReg.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "IOSapp1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sunbeam/Desktop/download/ios/day2/IOSapp1/IOSapp1/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "17F67F9A-EE50-4435-A18B-F0599D47BC0F - 2cc47d87ca952f58"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "IOSapp1.ViewController.textReg.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "IOSapp1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sunbeam/Desktop/download/ios/day2/IOSapp1/IOSapp1/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "26">
+               </Location>
+               <Location
+                  uuid = "17F67F9A-EE50-4435-A18B-F0599D47BC0F - b982b0eaa39e0155"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "IOSapp1.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; IOSapp1.ViewController"
+                  moduleName = "IOSapp1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sunbeam/Desktop/download/ios/day2/IOSapp1/IOSapp1/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "382">
+               </Location>
+               <Location
+                  uuid = "17F67F9A-EE50-4435-A18B-F0599D47BC0F - c3a2603ecf640ecf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "IOSapp1.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;IOSapp1.ViewController&gt;"
+                  moduleName = "IOSapp1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sunbeam/Desktop/download/ios/day2/IOSapp1/IOSapp1/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "339">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
